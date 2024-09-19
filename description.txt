@@ -1,0 +1,17 @@
+Input will be the money you have and your goals if any(The goals will have associated sql params)
+
+Statistics(mathplotlib in python) dayly/weekly/monthly/yearly/custom on spending, income, calculate savings, set trackers for savings
+Output will be suggestions based on the current amount of money and your goals
+
+Maybe add GUI
+
+
+                                                 User
+                                                  |
+                                 Account ---------+--------- Budget
+                                    |
+                                    |
+                              ------+------
+                             |             |
+                             |             |
+                          Spendings     Savings
